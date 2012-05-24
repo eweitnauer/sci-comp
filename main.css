@@ -1,0 +1,25 @@
+body {
+  font-size: 1em;
+}
+
+table {
+  border-spacing: 1px; 
+}
+
+div.content {
+  float: left;
+  margin: 10px;
+}
+
+p.name {
+  text-align: center;
+  font-family: sans-serif;
+  text-shadow: 1px 1px 2px #BBB;
+  font-size: 1em;
+}
+
+p.counter {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 0.9em;
+}
